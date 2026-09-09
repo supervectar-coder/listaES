@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Movistar Plus HD" tvg-name="MOVISTAR PLUS+ HD 1080p" tvg-logo="https://docdog.top/logo/countries/spain/movistar/MPLUS.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR PLUS+ HD 1080p
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/794
-#EXTINF:-1 tvg-id="Movistar Plus" tvg-name="MOVISTAR PLUS+ HD 720p" tvg-logo="https://docdog.top/logo/countries/spain/movistar/MPLUS.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR PLUS+ HD 720p
+#EXTINF:-1 tvg-id="Movistar Plus HD" tvg-name="MOVISTAR PLUS+ HD 720p" tvg-logo="https://docdog.top/logo/countries/spain/movistar/MPLUS.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR PLUS+ HD 720p
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/795
-#EXTINF:-1 tvg-id="Movistar Plus" tvg-name="MOVISTAR PLUS+ SD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/MPLUS.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR PLUS+ SD
+#EXTINF:-1 tvg-id="Movistar Plus HD" tvg-name="MOVISTAR PLUS+ SD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/MPLUS.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR PLUS+ SD
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/4531
-#EXTINF:-1 tvg-id="Movistar Plus 2 HD" tvg-name="MOVISTAR PLUS+ HD 1080p" tvg-logo="https://docdog.top/logo/countries/spain/movistar/MPLUS.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR PLUS+ HD 1080p
+#EXTINF:-1 tvg-id="Movistar Plus 2 HD" tvg-name="MOVISTAR PLUS+ HD 1080p" tvg-logo="https://docdog.top/logo/countries/spain/movistar/MPLUS.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR PLUS+ 2 HD 1080p
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/796
 #EXTINF:-1 tvg-id="Movistar Plus 2" tvg-name="MOVISTAR PLUS+ 2 HD 720p" tvg-logo="https://docdog.top/logo/countries/spain/movistar/MPLUS.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR PLUS+ 2 HD 720p
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/797
@@ -201,6 +201,8 @@ http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/1476
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/1477
 #EXTINF:-1 tvg-id="AMC Living" tvg-name="AMC LIVING SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DECASA.png" group-title="ESPAÑA ESTILO DE VIDA",AMC LIVING SD
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2463
+#EXTINF:-1 tvg-id="SELEKT" tvg-name="AMC SELEKT TV HD 720p" tvg-logo="" group-title="ESPAÑA ESTILO DE VIDA",AMC SELEKT TV HD 720p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/1486
 #EXTINF:-1 tvg-id="AMC Break" tvg-name="AMC BREAK HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png" group-title="ESPAÑA ESTILO DE VIDA",AMC BREAK HD 1080p
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/1480
 #EXTINF:-1 tvg-id="AMC Break" tvg-name="AMC BREAK HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png" group-title="ESPAÑA ESTILO DE VIDA",AMC BREAK HD 720p
@@ -213,8 +215,6 @@ http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/1483
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/1484
 #EXTINF:-1 tvg-id="AMC Crime" tvg-name="AMC CRIME SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" group-title="ESPAÑA ESTILO DE VIDA",AMC CRIME SD
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/1485
-#EXTINF:-1 tvg-id="SELEKT" tvg-name="AMC SELEKT TV HD 720p" tvg-logo="" group-title="ESPAÑA ESTILO DE VIDA",AMC SELEKT TV HD 720p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/1486
 #EXTINF:-1 tvg-id="Canal Cocina" tvg-name="CANAL COCINA HD 1080p" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51USEW2haIL.png" group-title="ESPAÑA ESTILO DE VIDA",CANAL COCINA HD 1080p
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/1478
 #EXTINF:-1 tvg-id="Canal Cocina" tvg-name="CANAL COCINA HD 720p" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51USEW2haIL.png" group-title="ESPAÑA ESTILO DE VIDA",CANAL COCINA HD 720p
@@ -223,17 +223,17 @@ http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/1479
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2464
 #EXTINF:-1 tvg-id="BuenViaje" tvg-name="BUENVIAJE HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BUENV.png" group-title="ESPAÑA ESTILO DE VIDA",BUENVIAJE HD 1080p
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/925
-#EXTINF:-1 tvg-id="La 1 HD" tvg-name="BUENVIAJE HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BUENV.png" group-title="ESPAÑA ESTILO DE VIDA",BUENVIAJE HD 720p
+#EXTINF:-1 tvg-id="BuenViaje" tvg-name="BUENVIAJE HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BUENV.png" group-title="ESPAÑA ESTILO DE VIDA",BUENVIAJE HD 720p
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/926
 #EXTINF:-1 tvg-id="BuenViaje" tvg-name="BUENVIAJE" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BUENV.png" group-title="ESPAÑA ESTILO DE VIDA",BUENVIAJE
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2461
 
 
-#EXTINF:-1 tvg-id="M+ Documentales HD" tvg-name="MOVISTAR DOCUMENTALES HD 1080p" tvg-logo="https://images2.imgbox.com/4e/af/p5jK0hT0_o.png" group-title="ESPAÑA DOCUMENTAL",MOVISTAR DOCUMENTALES HD 1080p
+#EXTINF:-1 tvg-id="M+ Documentales HD" tvg-name="MOVISTAR DOCUMENTALES HD 1080p" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Documentales.png" group-title="ESPAÑA DOCUMENTAL",MOVISTAR DOCUMENTALES HD 1080p
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/913
-#EXTINF:-1 tvg-id="M+ Documentales HD" tvg-name="MOVISTAR DOCUMENTALES HD 720p" tvg-logo="https://images2.imgbox.com/4e/af/p5jK0hT0_o.png" group-title="ESPAÑA DOCUMENTAL",MOVISTAR DOCUMENTALES HD 720p
+#EXTINF:-1 tvg-id="M+ Documentales HD" tvg-name="MOVISTAR DOCUMENTALES HD 720p" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Documentales.png" group-title="ESPAÑA DOCUMENTAL",MOVISTAR DOCUMENTALES HD 720p
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/914
-#EXTINF:-1 tvg-id="M+ Documentales HD" tvg-name="MOVISTAR DOCUMENTALES SD" tvg-logo="" group-title="ESPAÑA DOCUMENTAL",MOVISTAR DOCUMENTALES SD
+#EXTINF:-1 tvg-id="M+ Documentales HD" tvg-name="MOVISTAR DOCUMENTALES SD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Documentales.png" group-title="ESPAÑA DOCUMENTAL",MOVISTAR DOCUMENTALES SD
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2453
 #EXTINF:-1 tvg-id="National Geographic HD" tvg-name="NATIONAL GEOGRAPHIC HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGEO.png" group-title="ESPAÑA DOCUMENTAL",NATIONAL GEOGRAPHIC HD 1080p
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/917
