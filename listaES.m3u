@@ -141,17 +141,11 @@ http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/982
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/983
 #EXTINF:-1 tvg-id="Sundance TV" tvg-name="SUNDANCE TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SUNDAN.png" group-title="ESPAÑA CINE - SERIES",SUNDANCE TV
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2506
-#EXTINF:-1 tvg-id="HBO Max Avances" tvg-name="MAX AVANCES HD 1080p" tvg-logo="" group-title="ESPAÑA CINE - SERIES",MAX AVANCES HD 1080p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2294
-#EXTINF:-1 tvg-id="DMAX" tvg-name="MAX AVANCES HD 720p" tvg-logo="" group-title="ESPAÑA CINE - SERIES",MAX AVANCES HD 720p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2295
-#EXTINF:-1 tvg-id="HBO Max Avances" tvg-name="MAX AVANCES SD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",MAX AVANCES SD
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2296
-#EXTINF:-1 tvg-id="La 1 HD" tvg-name="BBC DRAMA HD 1080p" tvg-logo="https://origen-web.dof6.com/recorte/m-NEO/canal/BBDRA.png" group-title="ESPAÑA CINE - SERIES",BBC DRAMA HD 1080p
+#EXTINF:-1 tvg-id="BBC Series" tvg-name="BBC SERIES HD 1080p" tvg-logo="https://origen-web.dof6.com/recorte/m-NEO/canal/BBDRA.png" group-title="ESPAÑA CINE - SERIES",BBC SERIES HD 1080p
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/3583
-#EXTINF:-1 tvg-id="BBC Drama" tvg-name="BBC DRAMA HD 720p" tvg-logo="https://origen-web.dof6.com/recorte/m-NEO/canal/BBDRA.png" group-title="ESPAÑA CINE - SERIES",BBC DRAMA HD 720p
+#EXTINF:-1 tvg-id="BBC Series" tvg-name="BBC SERIES HD 720p" tvg-logo="https://origen-web.dof6.com/recorte/m-NEO/canal/BBDRA.png" group-title="ESPAÑA CINE - SERIES",BBC SERIES HD 720p
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/3584
-#EXTINF:-1 tvg-id="BBC Drama" tvg-name="BBC DRAMA SD" tvg-logo="https://origen-web.dof6.com/recorte/m-NEO/canal/BBDRA.png" group-title="ESPAÑA CINE - SERIES",BBC DRAMA SD
+#EXTINF:-1 tvg-id="BBC Series" tvg-name="BBC SERIES SD" tvg-logo="https://origen-web.dof6.com/recorte/m-NEO/canal/BBDRA.png" group-title="ESPAÑA CINE - SERIES",BBC SERIES SD
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/3585
 #EXTINF:-1 tvg-id="SkyShowtime" tvg-name="SKY SHOWTIME HD 1080p" tvg-logo="" group-title="ESPAÑA CINE - SERIES",SKY SHOWTIME HD 1080p
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/4855
@@ -989,6 +983,12 @@ http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/1484
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/1485
 #EXTINF:-1 tvg-id="SELEKT" tvg-name="AMC SELEKT TV HD 720p" tvg-logo="" group-title="ESPAÑA ESTILO DE VIDA",AMC SELEKT TV HD 720p
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/1486
+#EXTINF:-1 tvg-id="HBO Max Avances" tvg-name="MAX AVANCES HD 1080p" tvg-logo="" group-title="ESPAÑA ESTILO DE VIDA",MAX AVANCES HD 1080p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2294
+#EXTINF:-1 tvg-id="HBO Max Avances" tvg-name="MAX AVANCES HD 720p" tvg-logo="" group-title="ESPAÑA ESTILO DE VIDA",MAX AVANCES HD 720p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2295
+#EXTINF:-1 tvg-id="HBO Max Avances" tvg-name="MAX AVANCES SD" tvg-logo="" group-title="ESPAÑA ESTILO DE VIDA",MAX AVANCES SD
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2296
 #EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCRMAX.png" group-title="ESPAÑA ESTILO DE VIDA",DMAX HD 1080p
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/1487
 #EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCRMAX.png" group-title="ESPAÑA ESTILO DE VIDA",DMAX HD 720p
