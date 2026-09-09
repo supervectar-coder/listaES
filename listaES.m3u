@@ -147,11 +147,11 @@ http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/3583
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/3584
 #EXTINF:-1 tvg-id="BBC Series" tvg-name="BBC SERIES SD" tvg-logo="https://origen-web.dof6.com/recorte/m-NEO/canal/BBDRA.png" group-title="ESPAÑA CINE - SERIES",BBC SERIES SD
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/3585
-#EXTINF:-1 tvg-id="SkyShowtime" tvg-name="SKY SHOWTIME HD 1080p" tvg-logo="" group-title="ESPAÑA CINE - SERIES",SKY SHOWTIME HD 1080p
+#EXTINF:-1 tvg-id="SkyShowtime" tvg-name="SKY SHOWTIME HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/SKYSHO.png" group-title="ESPAÑA CINE - SERIES",SKY SHOWTIME HD 1080p
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/4855
-#EXTINF:-1 tvg-id="SkyShowtime" tvg-name="SKY SHOWTIME HD 720p" tvg-logo="" group-title="ESPAÑA CINE - SERIES",SKY SHOWTIME HD 720p
+#EXTINF:-1 tvg-id="SkyShowtime" tvg-name="SKY SHOWTIME HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/SKYSHO.png" group-title="ESPAÑA CINE - SERIES",SKY SHOWTIME HD 720p
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/4856
-#EXTINF:-1 tvg-id="SkyShowtime" tvg-name="SKY SHOWTIME SD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",SKY SHOWTIME SD
+#EXTINF:-1 tvg-id="SkyShowtime" tvg-name="SKY SHOWTIME SD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/SKYSHO.png" group-title="ESPAÑA CINE - SERIES",SKY SHOWTIME SD
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/4857
 #EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="COMEDY CENTRAL HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PCM.png" group-title="ESPAÑA CINE - SERIES",COMEDY CENTRAL HD 1080p
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/942
@@ -159,17 +159,17 @@ http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/942
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/943
 #EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="COMEDY CENTRAL SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PCM.png" group-title="ESPAÑA CINE - SERIES",COMEDY CENTRAL SD
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2490
-#EXTINF:-1 tvg-id="Squirrel 2" tvg-name="PARAMOUNT CHANNEL HD 1080p" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Paramount_Network.png" group-title="ESPAÑA CINE - SERIES",SQUIRREL DOS HD 1080p
+#EXTINF:-1 tvg-id="Squirrel 2" tvg-name="PARAMOUNT CHANNEL HD 1080p" tvg-logo="https://es.wikipedia.org/wiki/Squirrel_2#/media/Archivo:Nuevo_Logo_de_Squirrel_2_en_2026.svg" group-title="ESPAÑA CINE - SERIES",SQUIRREL DOS HD 1080p
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/4861
-#EXTINF:-1 tvg-id="Squirrel 2" tvg-name="PARAMOUNT CHANNEL HD 720p" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Paramount_Network.png" group-title="ESPAÑA CINE - SERIES",SQUIRREL DOS HD 720p
+#EXTINF:-1 tvg-id="Squirrel 2" tvg-name="PARAMOUNT CHANNEL HD 720p" tvg-logo="https://es.wikipedia.org/wiki/Squirrel_2#/media/Archivo:Nuevo_Logo_de_Squirrel_2_en_2026.svg" group-title="ESPAÑA CINE - SERIES",SQUIRREL DOS HD 720p
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/4862
-#EXTINF:-1 tvg-id="Squirrel 2" tvg-name="PARAMOUNT CHANNEL SD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Paramount_Network.png" group-title="ESPAÑA CINE - SERIES",SQUIRREL DOS SD
+#EXTINF:-1 tvg-id="Squirrel 2" tvg-name="PARAMOUNT CHANNEL SD" tvg-logo="https://es.wikipedia.org/wiki/Squirrel_2#/media/Archivo:Nuevo_Logo_de_Squirrel_2_en_2026.svg" group-title="ESPAÑA CINE - SERIES",SQUIRREL DOS SD
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/4863
-#EXTINF:-1 tvg-id="VinTV" tvg-name="VIN TV HD 1080p" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Enfamila.png" group-title="ESPAÑA CINE - SERIES",VIN TV HD 1080p
+#EXTINF:-1 tvg-id="VinTV" tvg-name="VIN TV HD 1080p" tvg-logo="https://es.wikipedia.org/wiki/VinTV#/media/Archivo:Logo_de_VinTV.png" group-title="ESPAÑA CINE - SERIES",VIN TV HD 1080p
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/4544
-#EXTINF:-1 tvg-id="VinTV" tvg-name="VIN TV HD 720p" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Enfamila.png" group-title="ESPAÑA CINE - SERIES",VIN TV HD 720p
+#EXTINF:-1 tvg-id="VinTV" tvg-name="VIN TV HD 720p" tvg-logo="https://es.wikipedia.org/wiki/VinTV#/media/Archivo:Logo_de_VinTV.png" group-title="ESPAÑA CINE - SERIES",VIN TV HD 720p
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/4545
-#EXTINF:-1 tvg-id="VinTV" tvg-name="VIN TV SD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Enfamila.png" group-title="ESPAÑA CINE - SERIES",VIN TV SD
+#EXTINF:-1 tvg-id="VinTV" tvg-name="VIN TV SD" tvg-logo="https://es.wikipedia.org/wiki/VinTV#/media/Archivo:Logo_de_VinTV.png" group-title="ESPAÑA CINE - SERIES",VIN TV SD
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/4543
 #EXTINF:-1 tvg-id="" tvg-name="RUNTIME ACCION HD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",RUNTIME ACCION HD
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2297
@@ -253,11 +253,11 @@ http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/921
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/922
 #EXTINF:-1 tvg-id="Discovery" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="" group-title="ESPAÑA DOCUMENTAL",DISCOVERY CHANNEL SD
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2455
-#EXTINF:-1 tvg-id="HBO Max Avances" tvg-name="MAX AVANCES HD 1080p" tvg-logo="" group-title="ESPAÑA DOCUMENTAL",MAX AVANCES HD 1080p
+#EXTINF:-1 tvg-id="HBO Max Avances" tvg-name="MAX AVANCES HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MAXAVA.png" group-title="ESPAÑA DOCUMENTAL",MAX AVANCES HD 1080p
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2294
-#EXTINF:-1 tvg-id="HBO Max Avances" tvg-name="MAX AVANCES HD 720p" tvg-logo="" group-title="ESPAÑA DOCUMENTAL",MAX AVANCES HD 720p
+#EXTINF:-1 tvg-id="HBO Max Avances" tvg-name="MAX AVANCES HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MAXAVA.png" group-title="ESPAÑA DOCUMENTAL",MAX AVANCES HD 720p
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2295
-#EXTINF:-1 tvg-id="HBO Max Avances" tvg-name="MAX AVANCES SD" tvg-logo="" group-title="ESPAÑA DOCUMENTAL",MAX AVANCES SD
+#EXTINF:-1 tvg-id="HBO Max Avances" tvg-name="MAX AVANCES SD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MAXAVA.png" group-title="ESPAÑA DOCUMENTAL",MAX AVANCES SD
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2296
 #EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCRMAX.png" group-title="ESPAÑA DOCUMENTAL",DMAX HD 1080p
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/1487
