@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Movistar Plus" tvg-name="MOVISTAR PLUS+ HD 1080p" tvg-logo="https://docdog.top/logo/countries/spain/movistar/MPLUS.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR PLUS+ HD 1080p
+#EXTINF:-1 tvg-id="Movistar Plus HD" tvg-name="MOVISTAR PLUS+ HD 1080p" tvg-logo="https://docdog.top/logo/countries/spain/movistar/MPLUS.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR PLUS+ HD 1080p
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/794
 #EXTINF:-1 tvg-id="Movistar Plus" tvg-name="MOVISTAR PLUS+ HD 720p" tvg-logo="https://docdog.top/logo/countries/spain/movistar/MPLUS.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR PLUS+ HD 720p
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/795
 #EXTINF:-1 tvg-id="Movistar Plus" tvg-name="MOVISTAR PLUS+ SD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/MPLUS.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR PLUS+ SD
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/4531
-#EXTINF:-1 tvg-id="Movistar Plus 2" tvg-name="MOVISTAR PLUS+ HD 1080p" tvg-logo="https://docdog.top/logo/countries/spain/movistar/MPLUS.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR PLUS+ HD 1080p
+#EXTINF:-1 tvg-id="Movistar Plus 2 HD" tvg-name="MOVISTAR PLUS+ HD 1080p" tvg-logo="https://docdog.top/logo/countries/spain/movistar/MPLUS.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR PLUS+ HD 1080p
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/796
 #EXTINF:-1 tvg-id="Movistar Plus 2" tvg-name="MOVISTAR PLUS+ 2 HD 720p" tvg-logo="https://docdog.top/logo/countries/spain/movistar/MPLUS.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR PLUS+ 2 HD 720p
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/797
