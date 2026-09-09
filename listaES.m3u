@@ -1,4 +1,206 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-name="MOVISTAR PLUS+ HD 1080p" tvg-logo="https://images2.imgbox.com/28/a1/ZfJf5hWc_o.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR PLUS+ HD 1080p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/794
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR PLUS+ HD 720p" tvg-logo="https://images2.imgbox.com/28/a1/ZfJf5hWc_o.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR PLUS+ HD 720p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/795
+#EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-name="MOVISTAR PLUS+ SD" tvg-logo="https://images2.imgbox.com/28/a1/ZfJf5hWc_o.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR PLUS+ SD
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/4531
+#EXTINF:-1 tvg-id="Movistar Plus+ 2 HD" tvg-name="MOVISTAR PLUS+ HD 1080p" tvg-logo="https://images2.imgbox.com/28/a1/ZfJf5hWc_o.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR PLUS+ HD 1080p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/796
+#EXTINF:-1 tvg-id="Movistar Plus+ 2 HD" tvg-name="MOVISTAR PLUS+ 2 HD 720p" tvg-logo="https://images2.imgbox.com/28/a1/ZfJf5hWc_o.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR PLUS+ 2 HD 720p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/797
+#EXTINF:-1 tvg-id="Movistar Plus+ 2 HD" tvg-name="MOVISTAR PLUS+ 2 SD" tvg-logo="https://images2.imgbox.com/28/a1/ZfJf5hWc_o.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR PLUS+ 2 SD
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/4532
+#EXTINF:-1 tvg-id="M+ Originales HD" tvg-name="MOVISTAR ORIGINALES HD 1080p" tvg-logo="https://images2.imgbox.com/fc/3e/kUg3cQb3_o.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR ORIGINALES HD 1080p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/960
+#EXTINF:-1 tvg-id="M+ Originales HD" tvg-name="MOVISTAR ORIGINALES HD 720p" tvg-logo="https://images2.imgbox.com/fc/3e/kUg3cQb3_o.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR ORIGINALES HD 720p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/961
+#EXTINF:-1 tvg-id="M+ Hits HD" tvg-name="MOVISTAR HITS HD 1080p" tvg-logo="" group-title="ESPAÑA CINE - SERIES",MOVISTAR HITS HD 1080p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/3590
+#EXTINF:-1 tvg-id="M+ Hits HD" tvg-name="MOVISTAR HITS HD 720p" tvg-logo="" group-title="ESPAÑA CINE - SERIES",MOVISTAR HITS HD 720p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/3588
+#EXTINF:-1 tvg-id="M+ Hits HD" tvg-name="MOVISTAR HITS SD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",MOVISTAR HITS SD
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/3589
+#EXTINF:-1 tvg-id="M+ Estrenos HD" tvg-name="MOVISTAR ESTRENOS HD 1080p" tvg-logo="" group-title="ESPAÑA CINE - SERIES",MOVISTAR ESTRENOS HD 1080p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/4852
+#EXTINF:-1 tvg-id="M+ Estrenos HD" tvg-name="MOVISTAR ESTRENOS HD 720p" tvg-logo="" group-title="ESPAÑA CINE - SERIES",MOVISTAR ESTRENOS HD 720p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/4853
+#EXTINF:-1 tvg-id="M+ Estrenos HD" tvg-name="MOVISTAR ESTRENOS SD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",MOVISTAR ESTRENOS SD
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/4854
+#EXTINF:-1 tvg-id="M+ Acción HD" tvg-name="MOVISTAR ACCION HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR ACCION HD 1080p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/954
+#EXTINF:-1 tvg-id="M+ Acción HD" tvg-name="MOVISTAR ACCION HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR ACCION HD 720p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/955
+#EXTINF:-1 tvg-id="M+ Acción HD" tvg-name="MOVISTAR ACCION SD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",MOVISTAR ACCION SD
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2508
+#EXTINF:-1 tvg-id="M+ Comedia HD" tvg-name="MOVISTAR COMEDIA HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR COMEDIA HD 1080p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/956
+#EXTINF:-1 tvg-id="M+ Comedia HD" tvg-name="MOVISTAR COMEDIA HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR COMEDIA HD 720p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/957
+#EXTINF:-1 tvg-id="M+ Drama HD" tvg-name="MOVISTAR DRAMA HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR DRAMA HD 1080p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/958
+#EXTINF:-1 tvg-id="M+ Drama HD" tvg-name="MOVISTAR DRAMA HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR DRAMA HD 720p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/959
+#EXTINF:-1 tvg-id="M+ Drama HD" tvg-name="MOVISTAR DRAMA SD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",MOVISTAR DRAMA SD
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2504
+#EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="MOVISTAR CINE Ñ HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR CINE Ñ HD 1080p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/966
+#EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="MOVISTAR CINE Ñ HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR CINE Ñ HD 720p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/967
+#EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="MOVISTAR CINE Ñ SD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",MOVISTAR CINE Ñ SD
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2507
+#EXTINF:-1 tvg-id="M+ Clásicos HD" tvg-name="MOVISTAR CLASICOS HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR CLASICOS HD 1080p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/962
+#EXTINF:-1 tvg-id="M+ Clásicos HD" tvg-name="MOVISTAR CLASICOS HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR CLASICOS HD 720p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/963
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR CLÁSCIOS SD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",MOVISTAR CLÁSCIOS SD
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2491
+#EXTINF:-1 tvg-id="M+ Indie HD" tvg-name="MOVISTAR INDIE HD 1080p" tvg-logo="https://images2.imgbox.com/e6/0d/BtMT1cCM_o.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR INDIE HD 1080p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/968
+#EXTINF:-1 tvg-id="M+ Indie HD" tvg-name="MOVISTAR INDIE HD 720p" tvg-logo="https://images2.imgbox.com/e6/0d/BtMT1cCM_o.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR INDIE HD 720p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/969
+#EXTINF:-1 tvg-id="M+ Indie HD" tvg-name="MOVISTAR INDIE SD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",MOVISTAR INDIE SD
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2505
+#EXTINF:-1 tvg-id="Somos" tvg-name="SOMOS HD 1080p" tvg-logo="" group-title="ESPAÑA CINE - SERIES",SOMOS HD 1080p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/950
+#EXTINF:-1 tvg-id="Somos" tvg-name="SOMOS HD 720p" tvg-logo="" group-title="ESPAÑA CINE - SERIES",SOMOS HD 720p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/951
+#EXTINF:-1 tvg-id="DARK" tvg-name="DARK HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DARK.png" group-title="ESPAÑA CINE - SERIES",DARK HD 1080p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/946
+#EXTINF:-1 tvg-id="DARK" tvg-name="DARK HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DARK.png" group-title="ESPAÑA CINE - SERIES",DARK HD 720p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/947
+#EXTINF:-1 tvg-id="DARK" tvg-name="DARK SD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",DARK SD
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2499
+#EXTINF:-1 tvg-id="Canal Hollywood HD" tvg-name="HOLLYWOOD HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png" group-title="ESPAÑA CINE - SERIES",HOLLYWOOD HD 1080p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/980
+#EXTINF:-1 tvg-id="Canal Hollywood HD" tvg-name="HOLLYWOOD HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png" group-title="ESPAÑA CINE - SERIES",HOLLYWOOD HD 720p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/981
+#EXTINF:-1 tvg-id="Canal Hollywood HD" tvg-name="HOLLYWOOD SD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",HOLLYWOOD SD
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2502
+#EXTINF:-1 tvg-id="Warner TV HD" tvg-name="WARNER TV HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png" group-title="ESPAÑA CINE - SERIES",WARNER TV HD 1080p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/940
+#EXTINF:-1 tvg-id="Warner TV HD" tvg-name="WARNER TV HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png" group-title="ESPAÑA CINE - SERIES",WARNER TV HD 720p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/941
+#EXTINF:-1 tvg-id="SyFy HD" tvg-name="SYFY HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" group-title="ESPAÑA CINE - SERIES",SYFY HD 1080p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/976
+#EXTINF:-1 tvg-id="SyFy HD" tvg-name="SYFY HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" group-title="ESPAÑA CINE - SERIES",SYFY HD 720p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/977
+#EXTINF:-1 tvg-id="SyFy HD" tvg-name="SYFY SD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",SYFY SD
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2492
+#EXTINF:-1 tvg-id="Calle 13 HD" tvg-name="CALLE 13 HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" group-title="ESPAÑA CINE - SERIES",CALLE 13 HD 1080p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/944
+#EXTINF:-1 tvg-id="Calle 13 HD" tvg-name="CALLE 13 HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" group-title="ESPAÑA CINE - SERIES",CALLE 13 HD 720p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/945
+#EXTINF:-1 tvg-id="Calle 13 HD" tvg-name="CALLE 13" tvg-logo="" group-title="ESPAÑA CINE - SERIES",CALLE 13
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2498
+#EXTINF:-1 tvg-id="STAR Channel HD" tvg-name="STAR CHANNEL HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="ESPAÑA CINE - SERIES",STAR CHANNEL HD 1080p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/936
+#EXTINF:-1 tvg-id="STAR Channel HD" tvg-name="STAR CHANNEL HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="ESPAÑA CINE - SERIES",STAR CHANNEL HD 720p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/937
+#EXTINF:-1 tvg-id="STAR Channel HD" tvg-name="STAR CHANNEL SD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",STAR CHANNEL SD
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2494
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AXN.png" group-title="ESPAÑA CINE - SERIES",AXN HD 1080p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/938
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AXN.png" group-title="ESPAÑA CINE - SERIES",AXN HD 720p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/939
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN SD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",AXN SD
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2493
+#EXTINF:-1 tvg-id="AXN Movies HD" tvg-name="AXN MOVIES HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png" group-title="ESPAÑA CINE - SERIES",AXN MOVIES HD 1080p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/970
+#EXTINF:-1 tvg-id="AXN Movies HD" tvg-name="AXN MOVIES HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png" group-title="ESPAÑA CINE - SERIES",AXN MOVIES HD 720p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/971
+#EXTINF:-1 tvg-id="AXN Movies HD" tvg-name="AXN MOVIES SD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",AXN MOVIES SD
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2496
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="ESPAÑA CINE - SERIES",AMC HD 1080p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/974
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="ESPAÑA CINE - SERIES",AMC HD 720p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/975
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC SD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",AMC SD
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2495
+#EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TCM.png" group-title="ESPAÑA CINE - SERIES",TCM HD 1080p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/978
+#EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TCM.png" group-title="ESPAÑA CINE - SERIES",TCM HD 720p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/979
+#EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM SD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",TCM SD
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2503
+#EXTINF:-1 tvg-id="XTRM" tvg-name="XTRM HD 1080p" tvg-logo="" group-title="ESPAÑA CINE - SERIES",XTRM HD 1080p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/948
+#EXTINF:-1 tvg-id="XTRM" tvg-name="XTRM HD 720p" tvg-logo="" group-title="ESPAÑA CINE - SERIES",XTRM HD 720p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/949
+#EXTINF:-1 tvg-id="XTRM" tvg-name="XTRM" tvg-logo="" group-title="ESPAÑA CINE - SERIES",XTRM
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2500
+#EXTINF:-1 tvg-id="Cosmo HD" tvg-name="COSMO HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/COSMO.png" group-title="ESPAÑA CINE - SERIES",COSMO HD 1080p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/972
+#EXTINF:-1 tvg-id="Cosmo HD" tvg-name="COSMO HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/COSMO.png" group-title="ESPAÑA CINE - SERIES",COSMO HD 720p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/973
+#EXTINF:-1 tvg-id="Cosmo HD" tvg-name="COSMO TV SD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",COSMO TV SD
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2497
+#EXTINF:-1 tvg-id="Sundance TV" tvg-name="SUNDANCE TV HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SUNDAN.png" group-title="ESPAÑA CINE - SERIES",SUNDANCE TV HD 1080p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/982
+#EXTINF:-1 tvg-id="Sundance TV" tvg-name="SUNDANCE TV HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SUNDAN.png" group-title="ESPAÑA CINE - SERIES",SUNDANCE TV HD 720p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/983
+#EXTINF:-1 tvg-id="Sundance TV" tvg-name="SUNDANCE TV" tvg-logo="" group-title="ESPAÑA CINE - SERIES",SUNDANCE TV
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2506
+#EXTINF:-1 tvg-id="HBO Max Avances" tvg-name="MAX AVANCES HD 1080p" tvg-logo="" group-title="ESPAÑA CINE - SERIES",MAX AVANCES HD 1080p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2294
+#EXTINF:-1 tvg-id="DMAX" tvg-name="MAX AVANCES HD 720p" tvg-logo="" group-title="ESPAÑA CINE - SERIES",MAX AVANCES HD 720p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2295
+#EXTINF:-1 tvg-id="HBO Max Avances" tvg-name="MAX AVANCES SD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",MAX AVANCES SD
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2296
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="BBC DRAMA HD 1080p" tvg-logo="https://origen-web.dof6.com/recorte/m-NEO/canal/BBDRA.png" group-title="ESPAÑA CINE - SERIES",BBC DRAMA HD 1080p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/3583
+#EXTINF:-1 tvg-id="BBC Drama" tvg-name="BBC DRAMA HD 720p" tvg-logo="https://origen-web.dof6.com/recorte/m-NEO/canal/BBDRA.png" group-title="ESPAÑA CINE - SERIES",BBC DRAMA HD 720p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/3584
+#EXTINF:-1 tvg-id="BBC Drama" tvg-name="BBC DRAMA SD" tvg-logo="https://origen-web.dof6.com/recorte/m-NEO/canal/BBDRA.png" group-title="ESPAÑA CINE - SERIES",BBC DRAMA SD
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/3585
+#EXTINF:-1 tvg-id="SkyShowtime" tvg-name="SKY SHOWTIME HD 1080p" tvg-logo="" group-title="ESPAÑA CINE - SERIES",SKY SHOWTIME HD 1080p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/4855
+#EXTINF:-1 tvg-id="SkyShowtime" tvg-name="SKY SHOWTIME HD 720p" tvg-logo="" group-title="ESPAÑA CINE - SERIES",SKY SHOWTIME HD 720p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/4856
+#EXTINF:-1 tvg-id="SkyShowtime" tvg-name="SKY SHOWTIME SD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",SKY SHOWTIME SD
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/4857
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="COMEDY CENTRAL HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PCM.png" group-title="ESPAÑA CINE - SERIES",COMEDY CENTRAL HD 1080p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/942
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="COMEDY CENTRAL HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PCM.png" group-title="ESPAÑA CINE - SERIES",COMEDY CENTRAL HD 720p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/943
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="COMEDY CENTRAL SD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",COMEDY CENTRAL SD
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2490
+#EXTINF:-1 tvg-id="Paramount Network" tvg-name="PARAMOUNT CHANNEL HD 1080p" tvg-logo="" group-title="ESPAÑA CINE - SERIES",PARAMOUNT CHANNEL HD 1080p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/4861
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL HD 720p" tvg-logo="" group-title="ESPAÑA CINE - SERIES",PARAMOUNT CHANNEL HD 720p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/4862
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="PARAMOUNT CHANNEL SD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",PARAMOUNT CHANNEL SD
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/4863
+#EXTINF:-1 tvg-id="VinTV" tvg-name="VIN TV HD 1080p" tvg-logo="" group-title="ESPAÑA CINE - SERIES",VIN TV HD 1080p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/4544
+#EXTINF:-1 tvg-id="VinTV" tvg-name="VIN TV HD 720p" tvg-logo="" group-title="ESPAÑA CINE - SERIES",VIN TV HD 720p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/4545
+#EXTINF:-1 tvg-id="VinTV" tvg-name="VIN TV SD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",VIN TV SD
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/4543
+#EXTINF:-1 tvg-id="" tvg-name="RUNTIME ACCION HD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",RUNTIME ACCION HD
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2297
+#EXTINF:-1 tvg-id="" tvg-name="RUNTIME COMEDIA HD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",RUNTIME COMEDIA HD
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2298
+#EXTINF:-1 tvg-id="" tvg-name="RUNTIME THRILLER & TERROR HD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",RUNTIME THRILLER & TERROR HD
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2299
+#EXTINF:-1 tvg-id="" tvg-name="RUNTIME CRIMEN HD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",RUNTIME CRIMEN HD
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2300
+#EXTINF:-1 tvg-id="" tvg-name="RUNTIME ROMANCE HD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",RUNTIME ROMANCE HD
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2301
+#EXTINF:-1 tvg-id="" tvg-name="RUNTIME CLASICOS HD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",RUNTIME CLASICOS HD
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2302
+#EXTINF:-1 tvg-id="" tvg-name="SOFY TV" tvg-logo="" group-title="ESPAÑA CINE - SERIES",SOFY TV
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2509
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY DYNAMICS FHD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",COMEDY DYNAMICS FHD
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2510
+#EXTINF:-1 tvg-id="" tvg-name="MYTIME MOVIE NETWORK FHD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",MYTIME MOVIE NETWORK FHD
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2511
+#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN 1" tvg-logo="" group-title="ESPAÑA CINE - SERIES",RAKUTEN 1
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2512
+#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN 2" tvg-logo="" group-title="ESPAÑA CINE - SERIES",RAKUTEN 2
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2513
+#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN 3" tvg-logo="" group-title="ESPAÑA CINE - SERIES",RAKUTEN 3
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2514
 #EXTINF:-1 tvg-id="La 1 HD" tvg-name="LA 1 HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" group-title="ESPAÑA TDT",LA 1 HD 1080p
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/988
 #EXTINF:-1 tvg-id="La 1 HD" tvg-name="LA 1 HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" group-title="ESPAÑA TDT",LA 1 HD 720p
@@ -79,216 +281,26 @@ http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2444
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2445
 #EXTINF:-1 tvg-id="" tvg-name="TVE INTERNACIONAL" tvg-logo="" group-title="ESPAÑA TDT",TVE INTERNACIONAL
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2447
-#EXTINF:-1 tvg-id="SkyShowtime" tvg-name="SKY SHOWTIME HD 1080p" tvg-logo="" group-title="ESPAÑA CINE - SERIES",SKY SHOWTIME HD 1080p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/4855
-#EXTINF:-1 tvg-id="SkyShowtime" tvg-name="SKY SHOWTIME HD 720p" tvg-logo="" group-title="ESPAÑA CINE - SERIES",SKY SHOWTIME HD 720p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/4856
-#EXTINF:-1 tvg-id="SkyShowtime" tvg-name="SKY SHOWTIME SD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",SKY SHOWTIME SD
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/4857
-#EXTINF:-1 tvg-id="VinTV" tvg-name="VIN TV HD 1080p" tvg-logo="" group-title="ESPAÑA CINE - SERIES",VIN TV HD 1080p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/4544
-#EXTINF:-1 tvg-id="VinTV" tvg-name="VIN TV HD 720p" tvg-logo="" group-title="ESPAÑA CINE - SERIES",VIN TV HD 720p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/4545
-#EXTINF:-1 tvg-id="VinTV" tvg-name="VIN TV SD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",VIN TV SD
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/4543
-#EXTINF:-1 tvg-id="" tvg-name="VEO7 HD 1080p" tvg-logo="" group-title="ESPAÑA CINE - SERIES",VEO7 HD 1080p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/5011
-#EXTINF:-1 tvg-id="" tvg-name="VEO7 HD 720p" tvg-logo="" group-title="ESPAÑA CINE - SERIES",VEO7 HD 720p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/5012
-#EXTINF:-1 tvg-id="" tvg-name="VEO7 SD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",VEO7 SD
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/5013
-#EXTINF:-1 tvg-id="HBO Max Avances" tvg-name="MAX AVANCES HD 1080p" tvg-logo="" group-title="ESPAÑA CINE - SERIES",MAX AVANCES HD 1080p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2294
-#EXTINF:-1 tvg-id="DMAX" tvg-name="MAX AVANCES HD 720p" tvg-logo="" group-title="ESPAÑA CINE - SERIES",MAX AVANCES HD 720p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2295
-#EXTINF:-1 tvg-id="HBO Max Avances" tvg-name="MAX AVANCES SD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",MAX AVANCES SD
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2296
-#EXTINF:-1 tvg-id="La 1 HD" tvg-name="BBC DRAMA HD 1080p" tvg-logo="https://origen-web.dof6.com/recorte/m-NEO/canal/BBDRA.png" group-title="ESPAÑA CINE - SERIES",BBC DRAMA HD 1080p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/3583
-#EXTINF:-1 tvg-id="BBC Drama" tvg-name="BBC DRAMA HD 720p" tvg-logo="https://origen-web.dof6.com/recorte/m-NEO/canal/BBDRA.png" group-title="ESPAÑA CINE - SERIES",BBC DRAMA HD 720p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/3584
-#EXTINF:-1 tvg-id="BBC Drama" tvg-name="BBC DRAMA SD" tvg-logo="https://origen-web.dof6.com/recorte/m-NEO/canal/BBDRA.png" group-title="ESPAÑA CINE - SERIES",BBC DRAMA SD
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/3585
-#EXTINF:-1 tvg-id="M+ Acción HD" tvg-name="MOVISTAR ACCION HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR ACCION HD 1080p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/954
-#EXTINF:-1 tvg-id="M+ Acción HD" tvg-name="MOVISTAR ACCION HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR ACCION HD 720p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/955
-#EXTINF:-1 tvg-id="M+ Acción HD" tvg-name="MOVISTAR ACCION SD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",MOVISTAR ACCION SD
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2508
-#EXTINF:-1 tvg-id="M+ Comedia HD" tvg-name="MOVISTAR COMEDIA HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR COMEDIA HD 1080p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/956
-#EXTINF:-1 tvg-id="M+ Comedia HD" tvg-name="MOVISTAR COMEDIA HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR COMEDIA HD 720p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/957
-#EXTINF:-1 tvg-id="M+ Drama HD" tvg-name="MOVISTAR DRAMA HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR DRAMA HD 1080p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/958
-#EXTINF:-1 tvg-id="M+ Drama HD" tvg-name="MOVISTAR DRAMA HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR DRAMA HD 720p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/959
-#EXTINF:-1 tvg-id="M+ Drama HD" tvg-name="MOVISTAR DRAMA SD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",MOVISTAR DRAMA SD
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2504
-#EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="MOVISTAR CINE Ñ HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR CINE Ñ HD 1080p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/966
-#EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="MOVISTAR CINE Ñ HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR CINE Ñ HD 720p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/967
-#EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="MOVISTAR CINE Ñ SD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",MOVISTAR CINE Ñ SD
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2507
-#EXTINF:-1 tvg-id="M+ Estrenos HD" tvg-name="MOVISTAR ESTRENOS HD 1080p" tvg-logo="" group-title="ESPAÑA CINE - SERIES",MOVISTAR ESTRENOS HD 1080p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/4852
-#EXTINF:-1 tvg-id="M+ Estrenos HD" tvg-name="MOVISTAR ESTRENOS HD 720p" tvg-logo="" group-title="ESPAÑA CINE - SERIES",MOVISTAR ESTRENOS HD 720p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/4853
-#EXTINF:-1 tvg-id="M+ Estrenos HD" tvg-name="MOVISTAR ESTRENOS SD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",MOVISTAR ESTRENOS SD
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/4854
-#EXTINF:-1 tvg-id="M+ Originales HD" tvg-name="MOVISTAR ORIGINALES HD 1080p" tvg-logo="https://images2.imgbox.com/fc/3e/kUg3cQb3_o.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR ORIGINALES HD 1080p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/960
-#EXTINF:-1 tvg-id="M+ Originales HD" tvg-name="MOVISTAR ORIGINALES HD 720p" tvg-logo="https://images2.imgbox.com/fc/3e/kUg3cQb3_o.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR ORIGINALES HD 720p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/961
-#EXTINF:-1 tvg-id="M+ Hits HD" tvg-name="MOVISTAR HITS HD 1080p" tvg-logo="" group-title="ESPAÑA CINE - SERIES",MOVISTAR HITS HD 1080p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/3590
-#EXTINF:-1 tvg-id="M+ Hits HD" tvg-name="MOVISTAR HITS HD 720p" tvg-logo="" group-title="ESPAÑA CINE - SERIES",MOVISTAR HITS HD 720p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/3588
-#EXTINF:-1 tvg-id="M+ Hits HD" tvg-name="MOVISTAR HITS SD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",MOVISTAR HITS SD
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/3589
-#EXTINF:-1 tvg-id="M+ Clásicos HD" tvg-name="MOVISTAR CLASICOS HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR CLASICOS HD 1080p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/962
-#EXTINF:-1 tvg-id="M+ Clásicos HD" tvg-name="MOVISTAR CLASICOS HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR CLASICOS HD 720p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/963
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR CLÁSCIOS SD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",MOVISTAR CLÁSCIOS SD
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2491
-#EXTINF:-1 tvg-id="M+ Indie HD" tvg-name="MOVISTAR INDIE HD 1080p" tvg-logo="https://images2.imgbox.com/e6/0d/BtMT1cCM_o.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR INDIE HD 1080p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/968
-#EXTINF:-1 tvg-id="M+ Indie HD" tvg-name="MOVISTAR INDIE HD 720p" tvg-logo="https://images2.imgbox.com/e6/0d/BtMT1cCM_o.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR INDIE HD 720p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/969
-#EXTINF:-1 tvg-id="M+ Indie HD" tvg-name="MOVISTAR INDIE SD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",MOVISTAR INDIE SD
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2505
-#EXTINF:-1 tvg-id="Canal Hollywood HD" tvg-name="HOLLYWOOD HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png" group-title="ESPAÑA CINE - SERIES",HOLLYWOOD HD 1080p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/980
-#EXTINF:-1 tvg-id="Canal Hollywood HD" tvg-name="HOLLYWOOD HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png" group-title="ESPAÑA CINE - SERIES",HOLLYWOOD HD 720p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/981
-#EXTINF:-1 tvg-id="Canal Hollywood HD" tvg-name="HOLLYWOOD SD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",HOLLYWOOD SD
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2502
-#EXTINF:-1 tvg-id="Calle 13 HD" tvg-name="CALLE 13 HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" group-title="ESPAÑA CINE - SERIES",CALLE 13 HD 1080p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/944
-#EXTINF:-1 tvg-id="Calle 13 HD" tvg-name="CALLE 13 HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" group-title="ESPAÑA CINE - SERIES",CALLE 13 HD 720p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/945
-#EXTINF:-1 tvg-id="Calle 13 HD" tvg-name="CALLE 13" tvg-logo="" group-title="ESPAÑA CINE - SERIES",CALLE 13
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2498
-#EXTINF:-1 tvg-id="Paramount Network" tvg-name="PARAMOUNT CHANNEL HD 1080p" tvg-logo="" group-title="ESPAÑA CINE - SERIES",PARAMOUNT CHANNEL HD 1080p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/4861
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL HD 720p" tvg-logo="" group-title="ESPAÑA CINE - SERIES",PARAMOUNT CHANNEL HD 720p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/4862
-#EXTINF:-1 tvg-id="La 1 HD" tvg-name="PARAMOUNT CHANNEL SD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",PARAMOUNT CHANNEL SD
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/4863
-#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AXN.png" group-title="ESPAÑA CINE - SERIES",AXN HD 1080p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/938
-#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AXN.png" group-title="ESPAÑA CINE - SERIES",AXN HD 720p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/939
-#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN SD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",AXN SD
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2493
-#EXTINF:-1 tvg-id="AXN Movies HD" tvg-name="AXN MOVIES HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png" group-title="ESPAÑA CINE - SERIES",AXN MOVIES HD 1080p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/970
-#EXTINF:-1 tvg-id="AXN Movies HD" tvg-name="AXN MOVIES HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png" group-title="ESPAÑA CINE - SERIES",AXN MOVIES HD 720p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/971
-#EXTINF:-1 tvg-id="AXN Movies HD" tvg-name="AXN MOVIES SD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",AXN MOVIES SD
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2496
-#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="ESPAÑA CINE - SERIES",AMC HD 1080p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/974
-#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="ESPAÑA CINE - SERIES",AMC HD 720p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/975
-#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC SD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",AMC SD
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2495
-#EXTINF:-1 tvg-id="SyFy HD" tvg-name="SYFY HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" group-title="ESPAÑA CINE - SERIES",SYFY HD 1080p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/976
-#EXTINF:-1 tvg-id="SyFy HD" tvg-name="SYFY HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" group-title="ESPAÑA CINE - SERIES",SYFY HD 720p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/977
-#EXTINF:-1 tvg-id="SyFy HD" tvg-name="SYFY SD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",SYFY SD
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2492
-#EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TCM.png" group-title="ESPAÑA CINE - SERIES",TCM HD 1080p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/978
-#EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TCM.png" group-title="ESPAÑA CINE - SERIES",TCM HD 720p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/979
-#EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM SD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",TCM SD
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2503
-#EXTINF:-1 tvg-id="Warner TV HD" tvg-name="WARNER TV HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png" group-title="ESPAÑA CINE - SERIES",WARNER TV HD 1080p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/940
-#EXTINF:-1 tvg-id="Warner TV HD" tvg-name="WARNER TV HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png" group-title="ESPAÑA CINE - SERIES",WARNER TV HD 720p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/941
-#EXTINF:-1 tvg-id="STAR Channel HD" tvg-name="STAR CHANNEL HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="ESPAÑA CINE - SERIES",STAR CHANNEL HD 1080p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/936
-#EXTINF:-1 tvg-id="STAR Channel HD" tvg-name="STAR CHANNEL HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="ESPAÑA CINE - SERIES",STAR CHANNEL HD 720p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/937
-#EXTINF:-1 tvg-id="STAR Channel HD" tvg-name="STAR CHANNEL SD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",STAR CHANNEL SD
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2494
-#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="COMEDY CENTRAL HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PCM.png" group-title="ESPAÑA CINE - SERIES",COMEDY CENTRAL HD 1080p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/942
-#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="COMEDY CENTRAL HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PCM.png" group-title="ESPAÑA CINE - SERIES",COMEDY CENTRAL HD 720p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/943
-#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="COMEDY CENTRAL SD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",COMEDY CENTRAL SD
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2490
-#EXTINF:-1 tvg-id="Factoría de Ficción" tvg-name="FDF HD 1080p" tvg-logo="http://discusfish.xyz:25461/images/f0118e9bd2c4fb29c64ee03abce698b8.jpg" group-title="ESPAÑA CINE - SERIES",FDF HD 1080p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2957
-#EXTINF:-1 tvg-id="Factoría de Ficción" tvg-name="FDF HD 720p" tvg-logo="http://discusfish.xyz:25461/images/f0118e9bd2c4fb29c64ee03abce698b8.jpg" group-title="ESPAÑA CINE - SERIES",FDF HD 720p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2956
-#EXTINF:-1 tvg-id="Factoría de Ficción" tvg-name="FDF SD" tvg-logo="http://discusfish.xyz:25461/images/f0118e9bd2c4fb29c64ee03abce698b8.jpg" group-title="ESPAÑA CINE - SERIES",FDF SD
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2955
-#EXTINF:-1 tvg-id="DARK" tvg-name="DARK HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DARK.png" group-title="ESPAÑA CINE - SERIES",DARK HD 1080p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/946
-#EXTINF:-1 tvg-id="DARK" tvg-name="DARK HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DARK.png" group-title="ESPAÑA CINE - SERIES",DARK HD 720p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/947
-#EXTINF:-1 tvg-id="DARK" tvg-name="DARK SD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",DARK SD
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2499
-#EXTINF:-1 tvg-id="XTRM" tvg-name="XTRM HD 1080p" tvg-logo="" group-title="ESPAÑA CINE - SERIES",XTRM HD 1080p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/948
-#EXTINF:-1 tvg-id="XTRM" tvg-name="XTRM HD 720p" tvg-logo="" group-title="ESPAÑA CINE - SERIES",XTRM HD 720p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/949
-#EXTINF:-1 tvg-id="XTRM" tvg-name="XTRM" tvg-logo="" group-title="ESPAÑA CINE - SERIES",XTRM
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2500
-#EXTINF:-1 tvg-id="Somos" tvg-name="SOMOS HD 1080p" tvg-logo="" group-title="ESPAÑA CINE - SERIES",SOMOS HD 1080p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/950
-#EXTINF:-1 tvg-id="Somos" tvg-name="SOMOS HD 720p" tvg-logo="" group-title="ESPAÑA CINE - SERIES",SOMOS HD 720p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/951
-#EXTINF:-1 tvg-id="Cosmo HD" tvg-name="COSMO HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/COSMO.png" group-title="ESPAÑA CINE - SERIES",COSMO HD 1080p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/972
-#EXTINF:-1 tvg-id="Cosmo HD" tvg-name="COSMO HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/COSMO.png" group-title="ESPAÑA CINE - SERIES",COSMO HD 720p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/973
-#EXTINF:-1 tvg-id="Cosmo HD" tvg-name="COSMO TV SD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",COSMO TV SD
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2497
-#EXTINF:-1 tvg-id="Sundance TV" tvg-name="SUNDANCE TV HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SUNDAN.png" group-title="ESPAÑA CINE - SERIES",SUNDANCE TV HD 1080p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/982
-#EXTINF:-1 tvg-id="Sundance TV" tvg-name="SUNDANCE TV HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SUNDAN.png" group-title="ESPAÑA CINE - SERIES",SUNDANCE TV HD 720p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/983
-#EXTINF:-1 tvg-id="Sundance TV" tvg-name="SUNDANCE TV" tvg-logo="" group-title="ESPAÑA CINE - SERIES",SUNDANCE TV
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2506
-#EXTINF:-1 tvg-id="BOM Cine" tvg-name="BOM CINE HD 1080p" tvg-logo="https://images2.imgbox.com/c0/d7/yqKiGVai_o.png" group-title="ESPAÑA CINE - SERIES",BOM CINE HD 1080p
+#EXTINF:-1 tvg-id="BOM Cine" tvg-name="BOM CINE HD 1080p" tvg-logo="https://images2.imgbox.com/c0/d7/yqKiGVai_o.png" group-title="ESPAÑA TDT",BOM CINE HD 1080p
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/984
-#EXTINF:-1 tvg-id="BOM Cine" tvg-name="BOM CINE HD 720p" tvg-logo="https://images2.imgbox.com/c0/d7/yqKiGVai_o.png" group-title="ESPAÑA CINE - SERIES",BOM CINE HD 720p
+#EXTINF:-1 tvg-id="BOM Cine" tvg-name="BOM CINE HD 720p" tvg-logo="https://images2.imgbox.com/c0/d7/yqKiGVai_o.png" group-title="ESPAÑA TDT",BOM CINE HD 720p
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/985
-#EXTINF:-1 tvg-id="Atreseries" tvg-name="A3SERIES HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ATRESS.png" group-title="ESPAÑA CINE - SERIES",A3SERIES HD 1080p
+#EXTINF:-1 tvg-id="Atreseries" tvg-name="A3SERIES HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ATRESS.png" group-title="ESPAÑA TDT",A3SERIES HD 1080p
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/986
-#EXTINF:-1 tvg-id="Atreseries" tvg-name="A3SERIES HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ATRESS.png" group-title="ESPAÑA CINE - SERIES",A3SERIES HD 720p
+#EXTINF:-1 tvg-id="Atreseries" tvg-name="A3SERIES HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ATRESS.png" group-title="ESPAÑA TDT",A3SERIES HD 720p
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/987
-#EXTINF:-1 tvg-id="" tvg-name="RUNTIME ACCION HD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",RUNTIME ACCION HD
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2297
-#EXTINF:-1 tvg-id="" tvg-name="RUNTIME COMEDIA HD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",RUNTIME COMEDIA HD
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2298
-#EXTINF:-1 tvg-id="" tvg-name="RUNTIME THRILLER & TERROR HD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",RUNTIME THRILLER & TERROR HD
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2299
-#EXTINF:-1 tvg-id="" tvg-name="RUNTIME CRIMEN HD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",RUNTIME CRIMEN HD
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2300
-#EXTINF:-1 tvg-id="" tvg-name="RUNTIME ROMANCE HD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",RUNTIME ROMANCE HD
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2301
-#EXTINF:-1 tvg-id="" tvg-name="RUNTIME CLASICOS HD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",RUNTIME CLASICOS HD
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2302
-#EXTINF:-1 tvg-id="" tvg-name="SOFY TV" tvg-logo="" group-title="ESPAÑA CINE - SERIES",SOFY TV
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2509
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY DYNAMICS FHD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",COMEDY DYNAMICS FHD
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2510
-#EXTINF:-1 tvg-id="" tvg-name="MYTIME MOVIE NETWORK FHD" tvg-logo="" group-title="ESPAÑA CINE - SERIES",MYTIME MOVIE NETWORK FHD
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2511
-#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN 1" tvg-logo="" group-title="ESPAÑA CINE - SERIES",RAKUTEN 1
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2512
-#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN 2" tvg-logo="" group-title="ESPAÑA CINE - SERIES",RAKUTEN 2
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2513
-#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN 3" tvg-logo="" group-title="ESPAÑA CINE - SERIES",RAKUTEN 3
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2514
+#EXTINF:-1 tvg-id="Factoría de Ficción" tvg-name="FDF HD 1080p" tvg-logo="http://discusfish.xyz:25461/images/f0118e9bd2c4fb29c64ee03abce698b8.jpg" group-title="ESPAÑA TDT",FDF HD 1080p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2957
+#EXTINF:-1 tvg-id="Factoría de Ficción" tvg-name="FDF HD 720p" tvg-logo="http://discusfish.xyz:25461/images/f0118e9bd2c4fb29c64ee03abce698b8.jpg" group-title="ESPAÑA TDT",FDF HD 720p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2956
+#EXTINF:-1 tvg-id="Factoría de Ficción" tvg-name="FDF SD" tvg-logo="http://discusfish.xyz:25461/images/f0118e9bd2c4fb29c64ee03abce698b8.jpg" group-title="ESPAÑA TDT",FDF SD
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2955
+#EXTINF:-1 tvg-id="" tvg-name="VEO7 HD 1080p" tvg-logo="" group-title="ESPAÑA TDT",VEO7 HD 1080p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/5011
+#EXTINF:-1 tvg-id="" tvg-name="VEO7 HD 1080p" tvg-logo="" group-title="ESPAÑA TDT",VEO7 HD 720p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/5012
+#EXTINF:-1 tvg-id="" tvg-name="VEO7 SD" tvg-logo="" group-title="ESPAÑA TDT",VEO7 SD
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/5013
 #EXTINF:-1 tvg-id="" tvg-name="ESCAPA TV HD 1080P" tvg-logo="" group-title="ESPAÑA DOCUMENTAL",ESCAPA TV HD 1080P
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/4903
 #EXTINF:-1 tvg-id="" tvg-name="ESCAPA TV HD 720P" tvg-logo="" group-title="ESPAÑA DOCUMENTAL",ESCAPA TV HD 720P
