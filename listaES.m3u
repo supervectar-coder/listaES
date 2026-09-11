@@ -43,12 +43,6 @@ http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/958
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/959
 #EXTINF:-1 tvg-id="M+ Drama HD" tvg-name="MOVISTAR DRAMA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR DRAMA SD
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2504
-#EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="MOVISTAR CINE Ñ HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR CINE Ñ HD 1080p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/966
-#EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="MOVISTAR CINE Ñ HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR CINE Ñ HD 720p
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/967
-#EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="MOVISTAR CINE Ñ SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR CINE Ñ SD
-http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2507
 #EXTINF:-1 tvg-id="M+ Clásicos HD" tvg-name="MOVISTAR CLASICOS HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR CLASICOS HD 1080p
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/962
 #EXTINF:-1 tvg-id="M+ Clásicos HD" tvg-name="MOVISTAR CLASICOS HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR CLASICOS HD 720p
@@ -61,6 +55,12 @@ http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/968
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/969
 #EXTINF:-1 tvg-id="M+ Indie HD" tvg-name="MOVISTAR INDIE SD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Indie.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR INDIE SD
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2505
+#EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="MOVISTAR CINE Ñ HD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR CINE Ñ HD 1080p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/966
+#EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="MOVISTAR CINE Ñ HD 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR CINE Ñ HD 720p
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/967
+#EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="MOVISTAR CINE Ñ SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="ESPAÑA CINE - SERIES",MOVISTAR CINE Ñ SD
+http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/2507
 #EXTINF:-1 tvg-id="Somos" tvg-name="SOMOS HD 1080p" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Somos.png" group-title="ESPAÑA CINE - SERIES",SOMOS HD 1080p
 http://mitv.netinc.org:8691/697222878p9/Sw4qyXXVUTEH/950
 #EXTINF:-1 tvg-id="Somos" tvg-name="SOMOS HD 720p" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Somos.png" group-title="ESPAÑA CINE - SERIES",SOMOS HD 720p
